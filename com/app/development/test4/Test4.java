@@ -4,8 +4,8 @@ public class Test4 {
 	
 	
 public void developer() {
-	int a=10; 
-	int b=20;
+	int a=75; 
+	int b=49;
 	System.out.println(a);
 	
 }
