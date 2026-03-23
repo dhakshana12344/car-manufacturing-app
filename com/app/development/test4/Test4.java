@@ -4,9 +4,9 @@ public class Test4 {
 	
 	
 public void developer() {
-	int a=10; 
-	int b=20;
-	System.out.println(a);
+	int a=90; 
+	int b=30;
+	System.out.println(b);
 	
 }
 public void quality() {
