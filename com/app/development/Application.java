@@ -1,5 +1,10 @@
 package com.app.development;
 public class Application{
+	
+	public void oldApplication() {
+		
+		System.out.println("create recover the old ediction");
+	}
 
     public static void main(String[] args){
 
@@ -11,4 +16,5 @@ public class Application{
         System.out.println(c);
         
     }
+    
 }

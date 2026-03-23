@@ -8,9 +8,16 @@ public void eSalarey() {
 	int c = a+b;
 	System.out.println(c);
 }
+
+public static void edetails() {
+	
+	for(int i = 0;i<=10;i++) {
+		System.out.print(i+" ");
+	}
+}
 public static void main(String[] args) {
 	new Employee().eSalarey();
 	System.out.println(123);
-	
+	edetails();
 }
 }
