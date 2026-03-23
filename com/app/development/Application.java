@@ -21,7 +21,10 @@ public class Application{
 		
 	}
 	public void meth2() {
-		
+		System.out.println("checkout breanch A");
+	}
+	public void meth3() {
+		System.out.println("checkout breanck B");
 	}
 
 
