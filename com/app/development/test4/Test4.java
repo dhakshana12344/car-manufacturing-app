@@ -10,7 +10,11 @@ public void developer() {
 	System.out.println(a);
 }
 public void quality() {
-	System.out.println(123);
+	int x=10;
+	int y=20;
+	
+	int x=40;
+	int y=50;
 }
 public void creater() {
 	System.out.println("creater");
