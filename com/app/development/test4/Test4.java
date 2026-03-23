@@ -4,10 +4,10 @@ public class Test4 {
 	
 	
 public void developer() {
+
 	int a=75; 
 	int b=49;
 	System.out.println(a);
-	
 }
 public void quality() {
 	System.out.println(123);
