@@ -13,8 +13,8 @@ public void quality() {
 	int x=10;
 	int y=20;
 	
-	int x=40;
-	int y=50;
+	int ax=40;
+	int by=50;
 }
 public void creater() {
 	System.out.println("creater");
